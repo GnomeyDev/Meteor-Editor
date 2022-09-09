@@ -1,2 +1,2 @@
 # Meteor-Editor
-A text editor using Electron and js
+## A text editor using Electron and js
