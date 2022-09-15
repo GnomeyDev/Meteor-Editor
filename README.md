@@ -20,8 +20,8 @@ or join the Discord using the link below:
 https://discord.gg/FvAg3QykmN
 
 Things that make errors:
-Not being in the right directory
-Typos of any kind
+- Not being in the right directory
+- Typos of any kind
 
 ## Credits
 ### Developers
